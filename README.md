@@ -39,12 +39,6 @@
       </td>
       <td align="center" width="80">
         <a href="#">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Python" />
-        </a>
-        <br><small>Python</small>
-      </td>
-      <td align="center" width="80">
-        <a href="#">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL" />
         </a>
         <br><small>PostgreSQL</small>
@@ -54,12 +48,6 @@
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" height="36" alt="MySQL" />
         </a>
         <br><small>MySQL</small>
-      </td>
-      <td align="center" width="80">
-        <a href="#">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="36" height="36" alt="Redis" />
-        </a>
-        <br><small>Redis</small>
       </td>
     </tr>
   </table>
