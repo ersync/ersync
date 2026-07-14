@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-header.svg" width="100%" alt="Emad Rahimi — full-stack developer" />
+  <img src="./assets/profile-header-v2.svg" width="100%" alt="Emad Rahimi — full-stack developer" />
 </p>
 
 <p align="center">

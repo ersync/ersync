@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Emad Rahimi</title>
+  <desc id="desc">Full-stack developer working from data model to final interaction.</desc>
+  <defs>
+    <linearGradient id="bg" x1="30" y1="18" x2="1160" y2="334" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#071621"/><stop offset="0.52" stop-color="#030914"/><stop offset="1" stop-color="#090818"/>
+    </linearGradient>
+    <radialGradient id="teal" cx="0" cy="0" r="1" gradientTransform="translate(905 70) rotate(145) scale(470 270)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2dd4bf" stop-opacity="0.22"/><stop offset="1" stop-color="#2dd4bf" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="violet" cx="0" cy="0" r="1" gradientTransform="translate(1070 318) rotate(-145) scale(390 220)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8b5cf6" stop-opacity="0.14"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="beam" x1="870" y1="-70" x2="1060" y2="400" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#99f6e4" stop-opacity="0"/><stop offset="0.5" stop-color="#99f6e4" stop-opacity="0.45"/><stop offset="1" stop-color="#818cf8" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="52" height="52" patternUnits="userSpaceOnUse">
+      <path d="M52 0H0V52" fill="none" stroke="#94a3b8" stroke-opacity="0.052"/>
+    </pattern>
+    <clipPath id="frame"><rect x="1" y="1" width="1198" height="338" rx="26"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="340" fill="url(#bg)"/>
+    <rect width="1200" height="340" fill="url(#grid)"/>
+    <rect width="1200" height="340" fill="url(#teal)"/>
+    <rect width="1200" height="340" fill="url(#violet)"/>
+
+    <ellipse cx="982" cy="126" rx="360" ry="194" fill="none" stroke="#5eead4" stroke-opacity="0.1" transform="rotate(-11 982 126)"/>
+    <ellipse cx="982" cy="126" rx="292" ry="148" fill="none" stroke="#818cf8" stroke-opacity="0.055" transform="rotate(-11 982 126)"/>
+    <path d="M847 -78L1062 410" stroke="url(#beam)" stroke-opacity="0.18" stroke-width="92"/>
+    <path d="M56 291H1144" stroke="#e2e8f0" stroke-opacity="0.08"/>
+
+    <text x="72" y="91" fill="#5eead4" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" font-weight="650" letter-spacing="3">FULL-STACK DEVELOPER</text>
+    <text x="68" y="179" fill="#f8fafc" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="76" font-weight="730" letter-spacing="-3.5">Emad Rahimi</text>
+    <text x="72" y="225" fill="#cbd5e1" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="23" font-weight="450">From data model to final interaction.</text>
+
+    <circle cx="73" cy="298" r="5" fill="#6ee7b7"/>
+    <text x="91" y="304" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" font-weight="500" letter-spacing="1.4">KURDISTAN, IRAN</text>
+    <text x="840" y="304" fill="#64748b" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" font-weight="550" letter-spacing="1.8">SYSTEMS / INTERFACES / DELIVERY</text>
+  </g>
+  <rect x="1" y="1" width="1198" height="338" rx="26" fill="none" stroke="#cbd5e1" stroke-opacity="0.13"/>
+</svg>
