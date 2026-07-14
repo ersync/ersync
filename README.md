@@ -1,203 +1,44 @@
-<div align="center">
-  <h1>Hi there, I'm Emad 👋🏻</h1>
-  
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ersync&label=Profile%20visits%20since%20April%202025&color=E1306C&style=for-the-badge" alt="Profile views counter" />
-</p>
-  <p>Junior Full Stack Developer specializing in Ruby on Rails and Vue.js</p>
-</div>
+# Emad Rahimi
 
-<hr>
+**I build web products all the way through.**
 
-<div>
-  <h2>About Me</h2>
-  <p>Welcome to my digital garden of Ruby & JavaScript ☘️</p>
-  <p>I'm passionate about building clean, efficient web applications with a focus on user-centered design. I thrive in collaborative environments where I can deliver high-quality, maintainable code that solves real business problems. With strong attention to detail and commitment to meeting deadlines, I consistently produce work that balances technical excellence with business requirements to create exceptional user experiences.</p>  
-</div>
+Rails and PostgreSQL underneath. Vue, TypeScript, and Svelte on the surface. I like clear interfaces, sturdy systems, and software that gets out of the way.
 
-<hr>
+Based in Kurdistan, Iran.
 
-<div>
-  <h2>My Tech Stack</h2>
-</div>
+[Portfolio](https://emadrahimi.dev) · [LinkedIn](https://linkedin.com/in/erahimidev) · [Email](mailto:contact@emadrahimi.dev)
 
-<div>
-  <h3>Backend & Data</h3>
-  <table>
-    <tr>
-      <td align="center" width="80">
-        <a href="#">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg" width="36" height="36" alt="Ruby" />
-        </a>
-        <br><small>Ruby</small>
-      </td>
-      <td align="center" width="80">
-        <a href="#">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" width="36" height="36" alt="Rails" />
-        </a>
-        <br><small>Rails</small>
-      </td>
-      <td align="center" width="80">
-        <a href="#">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL" />
-        </a>
-        <br><small>PostgreSQL</small>
-      </td>
-      <td align="center" width="80">
-        <a href="#">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" height="36" alt="MySQL" />
-        </a>
-        <br><small>MySQL</small>
-      </td>
-    </tr>
-  </table>
+## Selected work
 
-  <h3>Frontend</h3>
-  <table>
-    <tr>
-      <td align="center" width="80">
-        <a href="#">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="36" height="36" alt="Vue.js" />
-        </a>
-        <br><small>Vue.js</small>
-      </td>
-      <td align="center" width="80">
-        <a href="#">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" />
-        </a>
-        <br><small>JavaScript</small>
-      </td>
-      <td align="center" width="80">
-        <a href="#">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript" />
-        </a>
-        <br><small>TypeScript</small>
-      </td>
-      <td align="center" width="80">
-        <a href="#">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" width="36" height="36" alt="Tailwind" />
-        </a>
-        <br><small>Tailwind</small>
-      </td>
-      <td align="center" width="80">
-        <a href="#">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" height="36" alt="CSS3" />
-        </a>
-        <br><small>CSS3</small>
-      </td>
-      <td align="center" width="80">
-        <a href="#">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" height="36" alt="HTML5" />
-        </a>
-        <br><small>HTML5</small>
-      </td>
-    </tr>
-  </table>
+### [SatrYar](https://satryar.ir)
 
-  <h3>CI/CD & DevOps</h3>
-  <table>
-    <tr>
-      <td align="center" width="80">
-        <a href="#">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" alt="Git" />
-        </a>
-        <br><small>Git</small>
-      </td>
-      <td align="center" width="80">
-        <a href="#">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" height="36" alt="Docker" />
-        </a>
-        <br><small>Docker</small>
-      </td>
-      <td align="center" width="80">
-        <a href="#">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" width="36" height="36" alt="CircleCI" />
-        </a>
-        <br><small>CircleCI</small>
-      </td>
-      <td align="center" width="80">
-        <a href="#">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="36" height="36" alt="GitHub Actions" />
-        </a>
-        <br><small>GitHub Actions</small>
-      </td>
-    </tr>
-  </table>
+A Persian-first document studio that turns raw text into properly paginated Word and PDF files, locally in the browser.
 
-  <h3>Platforms & Tools</h3>
-  <table>
-    <tr>
-      <td align="center" width="80">
-        <a href="#">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="36" height="36" alt="Linux" />
-        </a>
-        <br><small>Linux</small>
-      </td>
-      <td align="center" width="80">
-        <a href="#">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Finder_Icon_macOS_Big_Sur.png" width="36" height="36" alt="macOS" />
-        </a>
-        <br><small>macOS</small>
-      </td>
-      <td align="center" width="80">
-        <a href="#">
-          <img src="https://vitejs.dev/logo.svg" width="36" height="36" alt="Vite" />
-        </a>
-        <br><small>Vite</small>
-      </td>
-      <td align="center" width="80">
-        <a href="#">
-          <img src="https://www.netlify.com/v3/img/components/logomark.png" width="36" height="36" alt="Netlify" />
-        </a>
-        <br><small>Netlify</small>
-      </td>
-      <td align="center" width="80">
-        <a href="#">
-          <img src="https://assets.vercel.com/image/upload/v1607554385/repositories/vercel/logo.png" width="36" height="36" alt="Vercel" />
-        </a>
-        <br><small>Vercel</small>
-      </td>
-    </tr>
-  </table>
-</div>
+`Svelte 5` `TypeScript` `SvelteKit`
 
-<hr>
+### [Cinemad](https://github.com/ersync/cinemad)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ersync&show_icons=true&theme=dark&hide_border=true&hide=stars" alt="GitHub Stats" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ersync&theme=dark&hide_border=true" alt="GitHub Streak" width="400" />
-</div>
+A full-stack film discovery product with a deep catalogue and a personalized browsing experience.
 
-<hr>
+`Ruby on Rails` `Vue` `PostgreSQL`
 
-<h2>Let's Connect</h2>
-<table>
-  <tr>
-    <td><b>Portfolio:</b></td>
-    <td>
-      <a href="https://emadrahimi.dev">
-        <img height="28" src="https://img.shields.io/badge/emadrahimi.dev-121212?logo=semaphoreci&logoColor=fff" alt="Portfolio">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Email:</b></td>
-    <td>
-      <a href="mailto:contact@emadrahimi.dev">
-        <img height="28" src="https://img.shields.io/badge/contact@emadrahimi.dev-121212?style=flat-square&logo=gmail&logoColor=fff" alt="Email">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td><b>LinkedIn:</b></td>
-    <td>
-      <a href="https://linkedin.com/in/erahimidev">
-        <img height="28" src="https://custom-icon-badges.demolab.com/badge/erahimidev-121212?logo=linkedin-white&logoColor=fff" alt="LinkedIn"> 
-      </a>
-    </td>
-  </tr>
-</table>
+[Live product](https://cinemad.emadrahimi.dev)
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=26&section=footer" width="100%" />
-</div>
+### [Skeleton Loader](https://github.com/ersync/skeleton-loader)
+
+A Ruby gem for generating skeleton loading screens from backend code, without a JavaScript dependency.
+
+`Ruby` `Rails` `CSS`
+
+[RubyGems](https://rubygems.org/gems/skeleton-loader)
+
+### [Persogen](https://github.com/ersync/persogen)
+
+A Rails API for generating realistic personal data for development and testing.
+
+`Rails` `RSpec` `JWT` `REST API`
+
+## Working with
+
+- **Core:** Ruby on Rails, PostgreSQL, Vue, TypeScript
+- **Also:** Svelte, Vite, RSpec, REST APIs, GitHub Actions
