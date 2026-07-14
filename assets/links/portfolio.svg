@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="168" height="46" viewBox="0 0 168 46" role="img" aria-label="Open portfolio">
+  <defs>
+    <linearGradient id="surface" x1="12" y1="4" x2="156" y2="44" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#102332"/>
+      <stop offset="1" stop-color="#07111e"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="10" y1="2" x2="160" y2="45" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8ff8ee" stop-opacity="0.48"/>
+      <stop offset="1" stop-color="#64748b" stop-opacity="0.22"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="166" height="44" rx="14" fill="url(#surface)" stroke="url(#edge)"/>
+  <path d="M17 8H151" stroke="#fff" stroke-opacity="0.07" stroke-linecap="round"/>
+  <circle cx="25" cy="23" r="4" fill="#5eead4"/>
+  <text x="40" y="28" fill="#f1f5f9" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="14" font-weight="650">Portfolio</text>
+  <path d="M134 27L142 19M136 19H142V25" fill="none" stroke="#94a3b8" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

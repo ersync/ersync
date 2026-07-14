@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="162" height="46" viewBox="0 0 162 46" role="img" aria-label="Open LinkedIn profile">
+  <defs>
+    <linearGradient id="surface" x1="10" y1="4" x2="152" y2="44" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#102131"/>
+      <stop offset="1" stop-color="#080f1b"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="8" y1="2" x2="154" y2="45" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7dd3fc" stop-opacity="0.36"/>
+      <stop offset="1" stop-color="#64748b" stop-opacity="0.18"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="160" height="44" rx="14" fill="url(#surface)" stroke="url(#edge)"/>
+  <path d="M17 8H145" stroke="#fff" stroke-opacity="0.065" stroke-linecap="round"/>
+  <rect x="18" y="15" width="17" height="17" rx="4" fill="#38bdf8" fill-opacity="0.12"/>
+  <text x="22" y="28" fill="#bae6fd" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="12" font-weight="750">in</text>
+  <text x="45" y="28" fill="#f1f5f9" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="14" font-weight="650">LinkedIn</text>
+  <path d="M132 27L140 19M134 19H140V25" fill="none" stroke="#64748b" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

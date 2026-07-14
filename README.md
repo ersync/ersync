@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <a href="https://emadrahimi.dev"><strong>Portfolio</strong></a>
-  &nbsp;·&nbsp;
-  <a href="mailto:contact@emadrahimi.dev"><strong>Email</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://linkedin.com/in/erahimidev"><strong>LinkedIn</strong></a>
+  <a href="https://emadrahimi.dev"><img src="./assets/links/portfolio.svg" height="46" alt="Portfolio" /></a>
+  &nbsp;
+  <a href="mailto:contact@emadrahimi.dev"><img src="./assets/links/email.svg" height="46" alt="Email me" /></a>
+  &nbsp;
+  <a href="https://linkedin.com/in/erahimidev"><img src="./assets/links/linkedin.svg" height="46" alt="LinkedIn" /></a>
 </p>
 
 ## Selected work
