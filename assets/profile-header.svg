@@ -55,10 +55,12 @@
     <g filter="url(#shadow)">
       <rect x="88" y="65" width="210" height="210" rx="56" fill="#071321"/>
       <rect x="89" y="66" width="208" height="208" rx="55" fill="none" stroke="url(#edge)" stroke-width="2"/>
-      <path d="M126 117C126 111.5 130.5 107 136 107H197V111C197 119.8 189.8 127 181 127H126V117Z" fill="url(#metal)"/>
-      <path d="M126 158C126 152.5 130.5 148 136 148H192V152C192 160.8 184.8 168 176 168H126V158Z" fill="url(#accent)"/>
-      <path d="M126 199C126 193.5 130.5 189 136 189H197V193C197 201.8 189.8 209 181 209H126V199Z" fill="url(#metal)"/>
-      <path d="M210 107H245C268 107 283 122 283 144C283 160 273.5 172.5 259 178L277 207H251L233 182H210V162H244C254 162 260 155.5 260 145C260 134.5 253.5 127 243.5 127H210V107Z" fill="url(#metal)"/>
+      <g transform="translate(-11.5 12)">
+        <path d="M126 117C126 111.5 130.5 107 136 107H197V111C197 119.8 189.8 127 181 127H126V117Z" fill="url(#metal)"/>
+        <path d="M126 158C126 152.5 130.5 148 136 148H192V152C192 160.8 184.8 168 176 168H126V158Z" fill="url(#accent)"/>
+        <path d="M126 199C126 193.5 130.5 189 136 189H197V193C197 201.8 189.8 209 181 209H126V199Z" fill="url(#metal)"/>
+        <path d="M210 107H245C268 107 283 122 283 144C283 160 273.5 172.5 259 178L277 207H251L233 182H210V162H244C254 162 260 155.5 260 145C260 134.5 253.5 127 243.5 127H210V107Z" fill="url(#metal)"/>
+      </g>
     </g>
 
     <text x="356" y="115" fill="#5eead4" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16" font-weight="600" letter-spacing="3">FULL-STACK DEVELOPER</text>
