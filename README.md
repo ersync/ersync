@@ -21,7 +21,7 @@
       <h3><a href="https://satryar.ir">SatrYar</a></h3>
       <p>Persian-first document studio. Paste text, get a polished Word or PDF. Everything stays in the browser.</p>
       <p><code>Svelte 5</code> <code>TypeScript</code> <code>SvelteKit</code></p>
-      <p><a href="https://satryar.ir"><strong>Open product ↗</strong></a></p>
+      <p><a href="https://satryar.ir"><img src="./assets/actions/product.svg" height="32" alt="Open product" /></a></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://cinemad.emadrahimi.dev">
@@ -30,7 +30,7 @@
       <h3><a href="https://github.com/ersync/cinemad">Cinemad</a></h3>
       <p>Film discovery across a deep catalogue, with a Rails API and a Vue interface built for browsing.</p>
       <p><code>Rails</code> <code>Vue</code> <code>PostgreSQL</code></p>
-      <p><a href="https://cinemad.emadrahimi.dev"><strong>Live ↗</strong></a> &nbsp; <a href="https://github.com/ersync/cinemad"><strong>Source ↗</strong></a></p>
+      <p><a href="https://cinemad.emadrahimi.dev"><img src="./assets/actions/live.svg" height="32" alt="Open live product" /></a>&nbsp; <a href="https://github.com/ersync/cinemad"><img src="./assets/actions/source.svg" height="32" alt="Open source code" /></a></p>
     </td>
   </tr>
   <tr>
@@ -41,7 +41,7 @@
       <h3><a href="https://github.com/ersync/skeleton-loader">Skeleton Loader</a></h3>
       <p>Generate skeleton screens in Rails without shipping a client-side dependency.</p>
       <p><code>Ruby</code> <code>Rails</code> <code>CSS</code></p>
-      <p><a href="https://rubygems.org/gems/skeleton-loader"><strong>RubyGems ↗</strong></a> &nbsp; <a href="https://github.com/ersync/skeleton-loader"><strong>Source ↗</strong></a></p>
+      <p><a href="https://rubygems.org/gems/skeleton-loader"><img src="./assets/actions/rubygems.svg" height="32" alt="Open on RubyGems" /></a>&nbsp; <a href="https://github.com/ersync/skeleton-loader"><img src="./assets/actions/source.svg" height="32" alt="Open source code" /></a></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/ersync/persogen">
@@ -50,7 +50,7 @@
       <h3><a href="https://github.com/ersync/persogen">Persogen</a></h3>
       <p>Realistic test identities from a documented and tested Rails API.</p>
       <p><code>Rails</code> <code>RSpec</code> <code>JWT</code> <code>REST</code></p>
-      <p><a href="https://github.com/ersync/persogen"><strong>Source ↗</strong></a></p>
+      <p><a href="https://github.com/ersync/persogen"><img src="./assets/actions/source.svg" height="32" alt="Open source code" /></a></p>
     </td>
   </tr>
 </table>

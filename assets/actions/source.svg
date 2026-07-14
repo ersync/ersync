@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="90" height="32" viewBox="0 0 90 32" role="img" aria-label="Open source code">
+  <rect x="0.5" y="0.5" width="89" height="31" rx="9" fill="#161b22" stroke="#30363d"/>
+  <text x="13" y="21" fill="#c9d1d9" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="12" font-weight="600">Source</text>
+  <path d="M71 19L77 13M72.5 13H77V17.5" fill="none" stroke="#8b949e" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
