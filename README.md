@@ -35,6 +35,15 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://github.com/ersync/retrynaut">
+        <img src="./assets/projects/retrynaut.webp" width="100%" alt="Retrynaut automatic retry utility" />
+      </a>
+      <h3><a href="https://github.com/ersync/retrynaut">Retrynaut</a></h3>
+      <p>Automatically retries Claude high-traffic failures in the Antigravity 2.x desktop app.</p>
+      <p><code>JavaScript</code> <code>Node.js</code> <code>CDP</code> <code>npm</code></p>
+      <p><a href="https://www.npmjs.com/package/retrynaut"><img src="./assets/actions/npm.svg" height="32" alt="Open on npm" /></a>&nbsp; <a href="https://github.com/ersync/retrynaut"><img src="./assets/actions/source.svg" height="32" alt="Open source code" /></a></p>
+    </td>
+    <td width="50%" valign="top">
       <a href="https://github.com/ersync/skeleton-loader">
         <img src="./assets/projects/skeleton-loader.webp" width="100%" alt="Skeleton Loader Ruby gem" />
       </a>
@@ -43,6 +52,8 @@
       <p><code>Ruby</code> <code>Rails</code> <code>CSS</code></p>
       <p><a href="https://rubygems.org/gems/skeleton-loader"><img src="./assets/actions/rubygems.svg" height="32" alt="Open on RubyGems" /></a>&nbsp; <a href="https://github.com/ersync/skeleton-loader"><img src="./assets/actions/source.svg" height="32" alt="Open source code" /></a></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/ersync/persogen">
         <img src="./assets/projects/persogen.webp" width="100%" alt="Persogen API" />
@@ -52,6 +63,7 @@
       <p><code>Rails</code> <code>RSpec</code> <code>JWT</code> <code>REST</code></p>
       <p><a href="https://github.com/ersync/persogen"><img src="./assets/actions/source.svg" height="32" alt="Open source code" /></a></p>
     </td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
